@@ -1,5 +1,10 @@
+<img width="100%" alt="loli" src="https://media4.giphy.com/media/CYyzXsZ8ZfCoOSXnbV/giphy.gif?cid=ecf05e47qkl9iw9mp4fcl2hc986iuzwwpvuwmqjv79iswg9r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 <h1 align="center">Hi 👋, I'm palguna</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+
 
 - 💬 Ask me about **---**
 
