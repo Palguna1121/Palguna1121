@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" alt="loli" src="https://media4.giphy.com/media/CYyzXsZ8ZfCoOSXnbV/giphy.gif?cid=ecf05e47qkl9iw9mp4fcl2hc986iuzwwpvuwmqjv79iswg9r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img autoplay="on" width="50%" alt="loli" src="https://media4.giphy.com/media/CYyzXsZ8ZfCoOSXnbV/giphy.gif?cid=ecf05e47qkl9iw9mp4fcl2hc986iuzwwpvuwmqjv79iswg9r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 
