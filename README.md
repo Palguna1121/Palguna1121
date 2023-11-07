@@ -20,15 +20,13 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Palguna </li>
-<li>
-<b>Fursona:</b> Snow Fox
+ <b>Name:</b> Palguna 
 </li>
 <li>
 <b>Likes:</b> anime, rpg games
 </li>
 <li>
-<b>Gender:</b> he/him/Male 🏳️‍⚧️
+<b>Gender:</b> he/him/Male 
 </li>
 <li>
 <b>Hobbys:</b> Game, Anime, Web Design, Web Development
