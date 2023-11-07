@@ -4,7 +4,7 @@
 <br>
     
 <div align="center">
-  <iframe src="https://giphy.com/embed/CYyzXsZ8ZfCoOSXnbV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-girl-loli-shigure-CYyzXsZ8ZfCoOSXnbV">via GIPHY</a></p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZoeWdpOTc4NmF6Y3lqNmFzZmp6MDFiOG5rcHV2YTgxOGZ4YTNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CYyzXsZ8ZfCoOSXnbV/giphy.gif" autoplay="on" width="480" height="480" frameBorder="0" class="giphy-embed"></img><p><a href="https://giphy.com/gifs/anime-girl-loli-shigure-CYyzXsZ8ZfCoOSXnbV">via GIPHY</a></p>
   <br>
   <p>~𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒~</p>
