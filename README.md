@@ -74,8 +74,8 @@
 <br>
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
-<div align="center">
   <a href="https://trakteer.id/naanayo" target="_blank"><img height="40" src="https://trakteer.id/images/mix/navbar-logo-lite.png"/></a>
+<div align="center">
 <img src="https://imgur.com/mqc5eKX.gif" width="600px" height="auto">
 </div>
 <hr>
