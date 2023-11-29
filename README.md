@@ -67,7 +67,7 @@
   </div>
 <br>
 <p align="center">Here are some of my <br> most used soscial things </p>
-<p align="center"><a href="https://www.instagram.com/palguna._28/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/channels/me" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://wa.me/+6287889287608" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> <a href="https://trakteer.id/naanayo" target="_blank"><img height="40" src="https://trakteer.id/images/mix/navbar-logo-lite.png"/></a></p>
+<p align="center"><a href="https://www.instagram.com/palguna._28/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/channels/me" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://wa.me/+6287889287608" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> </p>
 </div>
 <br>
 <br>
@@ -75,6 +75,7 @@
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
+  <a href="https://trakteer.id/naanayo" target="_blank"><img height="40" src="https://trakteer.id/images/mix/navbar-logo-lite.png"/></a>
 <img src="https://imgur.com/mqc5eKX.gif" width="600px" height="auto">
 </div>
 <hr>
