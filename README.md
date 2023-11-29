@@ -76,9 +76,10 @@
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
   <a align="center" href="https://trakteer.id/naanayo" target="_blank"><img height="40" align="center" src="https://trakteer.id/images/mix/navbar-logo-lite.png"/></a>
-  <br>
 </div>
 <div align="center">
+  <br>
+  <br>
 <img src="https://imgur.com/mqc5eKX.gif" width="600px" height="auto">
 </div>
 <hr>
