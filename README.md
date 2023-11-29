@@ -79,7 +79,6 @@
 </div>
 <div align="center">
   <br>
-  <br>
 <img src="https://imgur.com/mqc5eKX.gif" width="600px" height="auto">
 </div>
 <hr>
