@@ -4,7 +4,7 @@
 <br>
     
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZoeWdpOTc4NmF6Y3lqNmFzZmp6MDFiOG5rcHV2YTgxOGZ4YTNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CYyzXsZ8ZfCoOSXnbV/giphy.gif" autoplay="on" width="480" height="480" frameBorder="0" class="giphy-embed"></img>
+  <img src="https://tenor.com/be96BiSZJb.gif" autoplay="on" width="480" height="480" frameBorder="0" class="giphy-embed"></img>
   <br>
   <br>
   <p>~𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
