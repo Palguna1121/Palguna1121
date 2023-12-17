@@ -25,7 +25,7 @@
  <b>Name:</b> Palguna 
 </li>
 <li>
-<b>Likes:</b> anime, rpg games
+<b>Likes:</b> anime, rpg & my gf melody
 </li>
 <li>
 <b>Gender:</b> he/him/Male 
