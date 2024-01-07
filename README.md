@@ -5,7 +5,7 @@
     
 <div align="center">
   
-  <img src="https://tenor.com/view/shigure-ui-gif-671938786495116814.gif" autoplay="on" width="500" height="480" frameBorder="0" class="giphy-embed"></img>
+  <img src="https://tenor.com/view/shigure-ui-gif-671938786495116814.gif" autoplay="on" width="580" height="480" frameBorder="0" class="giphy-embed"></img>
   <br>
   <br>
   <p>~𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
